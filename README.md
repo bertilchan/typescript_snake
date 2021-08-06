@@ -16,3 +16,4 @@ npm run build
 ```
 
 ### Effect Picture
+![effect](https://github.com/bertilchan/typescript_snake/blob/master/src/img/effect.png)
